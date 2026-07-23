@@ -1,4 +1,4 @@
-ServeresT — E2E Teste de automação com Cypress
+# ServeresT — E2E Teste de automação com Cypress 
 [![Print do teste](https://github.com/user-attachments/assets/2b6833c3-a8fd-4510-82e3-7c66b5747f1f)](https://front.serverest.dev/login)
 Projeto de testes automatizados criado com Cypress, desenvolvido como estudo e prática de automação de testes end-to-end (E2E).
 
