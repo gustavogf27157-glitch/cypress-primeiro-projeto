@@ -5,8 +5,8 @@ Projeto de testes automatizados criado com Cypress, desenvolvido como estudo e p
 - Sobre o projeto
 
 Este repositório contém meus primeiros testes automatizados utilizando o Cypress, com o objetivo de aprender e praticar conceitos de automação de testes para aplicações web.
-<img width="1594" height="766" alt="image" src="https://github.com/user-attachments/assets/af7317a7-803f-47af-be0b-65775a1c399d" />
-
+[![Print do teste](<img width="1594" height="766" alt="image" src="https://github.com/user-attachments/assets/2b6833c3-a8fd-4510-82e3-7c66b5747f1f" />
+)](https://front.serverest.dev/login)
 - Tecnologias utilizadas
 Node.js
 Cypress
