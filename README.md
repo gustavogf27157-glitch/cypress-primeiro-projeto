@@ -32,7 +32,7 @@ Para rodar os testes em modo headless (sem interface, direto no terminal):
 
 bash
 npx cypress run
-## Estrutura do projeto
+ Estrutura do projeto
 cypress/
   ├── e2e/            # Arquivos de teste
   ├── fixtures/       # Dados de teste (mocks)
