@@ -1,11 +1,11 @@
-Cypress - Primeiro Projeto
-
+ServeresT — E2E Teste de automação com Cypress
+[![Print do teste](https://github.com/user-attachments/assets/2b6833c3-a8fd-4510-82e3-7c66b5747f1f)](https://front.serverest.dev/login)
 Projeto de testes automatizados criado com Cypress, desenvolvido como estudo e prática de automação de testes end-to-end (E2E).
 
 - Sobre o projeto
 
 Este repositório contém meus primeiros testes automatizados utilizando o Cypress, com o objetivo de aprender e praticar conceitos de automação de testes para aplicações web.
-[![Print do teste](https://github.com/user-attachments/assets/2b6833c3-a8fd-4510-82e3-7c66b5747f1f)](https://front.serverest.dev/login)
+
 - Tecnologias utilizadas
 Node.js
 Cypress
