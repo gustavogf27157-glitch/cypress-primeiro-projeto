@@ -2,14 +2,14 @@
 [![Print do teste](https://github.com/user-attachments/assets/2b6833c3-a8fd-4510-82e3-7c66b5747f1f)](https://front.serverest.dev/login)
 Projeto de testes automatizados criado com Cypress, desenvolvido como estudo e prática de automação de testes end-to-end (E2E).
 
-- Sobre o projeto
+## Sobre o projeto
 
 Este repositório contém meus primeiros testes automatizados utilizando o Cypress, com o objetivo de aprender e praticar conceitos de automação de testes para aplicações web.
 
-- Tecnologias utilizadas
+## Tecnologias utilizadas
 Node.js
 Cypress
-- Instalação
+## Instalação
 
 Clone o repositório:
 
@@ -32,7 +32,7 @@ Para rodar os testes em modo headless (sem interface, direto no terminal):
 
 bash
 npx cypress run
-- Estrutura do projeto
+## Estrutura do projeto
 cypress/
   ├── e2e/            # Arquivos de teste
   ├── fixtures/       # Dados de teste (mocks)
